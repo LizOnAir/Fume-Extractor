@@ -1,5 +1,6 @@
-# Fume extractor
+# 2 in 1 Fume extractor
 A 3d print fume extractor, to stop solder fumes from flooding my face when I'm soldering.
+When you feel hot, simply detach the fan and turn around to use as a mini fan.
 
 ## Features:
 - magnetic casing
@@ -11,6 +12,9 @@ A 3d print fume extractor, to stop solder fumes from flooding my face when I'm s
 
 By Liz from fusion 360
 Able to attach active carbon filter to the extractor.
+
+<img width="1134" height="1016" alt="IMG_1801" src="https://github.com/user-attachments/assets/08664cd7-0272-4a7e-9a18-fd5809217f4b" />
+
 
 ## Wiring Diagram
 <img width="682" height="395" alt="Screenshot 2026-04-27 at 12 57 47 PM" src="https://github.com/user-attachments/assets/1271f296-b0dd-4419-9e83-a844d77a7f48" />
